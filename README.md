@@ -180,22 +180,3 @@ Essa experiência despertou meu interesse em utilizar dados e tecnologia para ap
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0b1020&height=100&section=footer" alt="" width="100%">
 
 </div>
-'''
-
-instructions = '''# Publicar o README do perfil
-
-1. Crie um repositório **público** chamado exatamente `Guitomaz99` (mesmo nome do usuário GitHub).
-2. Adicione este arquivo como `README.md` na raiz do repositório.
-3. Faça commit das alterações.
-4. Acesse seu perfil: https://github.com/Guitomaz99
-
-## Antes de publicar
-
-- Confira se o endereço do LinkedIn está correto.
-- Confirme se o repositório `news-intelligence-pipeline` está público e com o mesmo endereço.
-- Adicione o link específico do repositório da clínica-escola quando decidir publicá-lo.
-- No projeto de BI, publique somente imagens ou dados autorizados e sem informação confidencial.
-- Revise se todas as tecnologias listadas refletem ferramentas que você realmente utilizou ou está estudando.
-
-O banner e os badges são imagens externas. Os cartões de estatísticas dependem de um serviço de terceiros e podem ficar indisponíveis temporariamente.
-'''

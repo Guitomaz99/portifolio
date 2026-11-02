@@ -1,4 +1,4 @@
-'<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:0f766e&height=200&section=header&text=Guilherme%20Tomaz&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Dados%20%7C%20Desenvolvimento%20%7C%20Tecnologia&descSize=17&descAlignY=60" alt="Guilherme Tomaz — Dados, Desenvolvimento e Tecnologia" width="100%">
 
